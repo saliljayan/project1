@@ -1,0 +1,1 @@
+Extract the files to a folder and run entretainment_centre.py to open the website
